@@ -1,0 +1,15 @@
+# Large third-party upstream binaries (>100MB)
+alvr_streamer_linux/
+alvr_20_4_3/
+*.tar.gz
+platform-tools/
+*.zip
+
+# Android APKs (downloaded via download_binaries.sh)
+*.apk
+
+# OS / temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
